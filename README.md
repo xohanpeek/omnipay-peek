@@ -5,6 +5,7 @@ Example using Omnipay to process payments using required payment gateways.
 ## Getting Started
 
 To run the example application, you must first install the development dependencies via composer.
+
 Run `composer install`.
 
 
